@@ -1,4 +1,5 @@
 # URL Shortener
+<img width="810" alt="image" src="https://github.com/user-attachments/assets/adc3aee7-78ef-41ad-b7bb-bfeafc7a61b2" />
 
 This project is a simple URL shortener service built in Go. It allows users to shorten long URLs and redirect to the original URLs.
 
